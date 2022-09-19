@@ -1,5 +1,7 @@
 # Codeforces-polygon
-교내 알고리즘 대회 개최 준비를 위한 문제 제작 플랫폼 사용 방법
+교내 알고리즘 대회 개최 준비를 위한 문제 제작 플랫폼 사용 방법  
+문제 지문과 데이터, 솔루션등과 관련된 내용들은 2022 KAUPC 문제인 Triathlon을 기준으로 작성합니다.
+
 - Polygon 주소: [https://polygon.codeforces.com/](https://polygon.codeforces.com/)  
 - BOJ Stack 주소: [https://stack.acmicpc.net/](https://stack.acmicpc.net/)
 

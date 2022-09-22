@@ -1,7 +1,5 @@
 # Codeforces-polygon
-교내 알고리즘 대회 개최 준비를 위한 문제 제작 플랫폼 사용 방법  
-문제 지문과 데이터, 솔루션등과 관련된 내용들은 2022 KAUPC 문제인 Triathlon을 기준으로 작성합니다.
-
+교내 알고리즘 대회 개최 준비를 위한 문제 제작 플랫폼 사용 방법
 - Polygon 주소: [https://polygon.codeforces.com/](https://polygon.codeforces.com/)  
 - BOJ Stack 주소: [https://stack.acmicpc.net/](https://stack.acmicpc.net/)
 
@@ -20,8 +18,8 @@
     </tr>
     <tr align="center">
       <td> 1 </td>
-      <td> Create Contest </td>
-      <td>  </td>
+      <td> Create Contest 및 기본 설정 </td>
+      <td> 2022.09.22 </td>
     </tr>
     <tr align="center">
       <td> 2 </td>
@@ -106,13 +104,11 @@
     </tr>
     <tr align="center">
       <td> 2 </td>
-      <td> 운영진 및 검수진 권한 설정 방법 </td>
-      <td>  </td>
-    </tr>
-    <tr align="center">
-      <td> 3 </td>
       <td> 데이터 추가 </td>
       <td> 2022.09.01 </td>
     </tr>
   </table>
 </div>
+
+# 3. 추가할 내용
+- 추가할 내용이 있다면 언제든지 PR을 보내주시길 바랍니다 😀
